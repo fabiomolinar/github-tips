@@ -1,8 +1,10 @@
+# New project
 If starting a new project, the easiest way to do it is to create the project on github and then just clone it to my pc.
 
 1. git clone https://github.com/fabiomolinar/javascript-tips.git
-    [The URL above is an example; use the one from the repository you want to clone]
+  * The URL above is an example; use the one from the repository you want to clone
 
+# Copying project from PC to Github
 How to move a folder from my PC to a github repository that already exists.
 
 1. git init
